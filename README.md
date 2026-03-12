@@ -4,7 +4,7 @@
 
 ## It's my first project on SFML
 This is how the game looks like
-(img)[img/img.png]
+!(img)[img/img.png]
 
 # links
-(original article)[https://habr.com/ru/articles/449596/]
+- (original article)[https://habr.com/ru/articles/449596/]
